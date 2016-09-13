@@ -1,6 +1,8 @@
 #Comment
 tempfile.txt
 tempfile2.txt
+tempfile3.txt
+.gitignore
 *.zip
 *.gz
 log/*.log
